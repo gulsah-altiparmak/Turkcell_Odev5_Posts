@@ -1,0 +1,6 @@
+framework module Pods_Turkcell_Odev5_Posts {
+  umbrella header "Pods-Turkcell_Odev5_Posts-umbrella.h"
+
+  export *
+  module * { export * }
+}
